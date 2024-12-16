@@ -1,4 +1,4 @@
-![MasterHead](https://theninehertz.com/wp-content/uploads/2020/08/Python-Allows-Multi-tasking.gif )
+
 <h1 align="center">Hi 👋, I'm Amrin Taj</h1>
 <h3 align="center">A passionate python developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwC2EUDS6facSVf8idQwIUMkIKyxm-waBocw&s">
