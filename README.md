@@ -24,6 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taj2407&" alt="taj2407" /></p>
 
-From <https://rahuldkjain.github.io/gh-profile-readme-generator/> 
-![image](https://github.com/user-attachments/assets/9f62d974-e185-4aef-9b3a-82fa93b576fb)
 
